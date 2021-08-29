@@ -1,0 +1,1 @@
+# Push Daily Updates regarding the mineiros progress
