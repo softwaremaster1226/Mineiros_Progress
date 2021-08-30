@@ -6,13 +6,7 @@
     justify-content: space-between;
     overflow: hidden;
 }
-.phone{
-    background-color:#F22751;
-    padding:10px 20px;
-}
-.phone:hover{
-    color:white;
-}
+
 .topnav a {
     float: left;
     display: block;
@@ -22,7 +16,15 @@
     text-decoration: none;
     font-size: 16px;
 }
+.phone {
+    background-color: #F22751;
+    padding: 10px 20px;
+    color: white !important;
+}
 
+.phone:hover {
+    color: yellow !important;
+}
 .active {
     color:#F22751;
 }

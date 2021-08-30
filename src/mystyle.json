@@ -1,0 +1,45 @@
+{
+    "home": {
+        "devtitle" : "DevOps as a Service for modern businesses",
+        "devtext" : "We help our clients build businesses by designing, building and implementing production-grade, secure and scalable infrastructure that delight developers and satisfy your current and future business needs.",
+        "arttitle" : "Professional Services for State Of",
+        "arttext" :"The Art Technologies",
+        "producttitle":"WHAT WE DO",
+        "productitems":[
+            {"icon":"fa fa-download","title":"Cloud Migration","text":"We analyze existing applications as well as structure, and delivery processes. We create assessments of source and target clouds and design, plan and implement complex architectures, and processes."},
+            {"icon":"fa fa-download","title":"Cloud Migration","text":"We analyze existing applications as well as structure, and delivery processes. We create assessments of source and target clouds and design, plan and implement complex architectures, and processes."},
+            {"icon":"fa fa-download","title":"Cloud Migration","text":"We analyze existing applications as well as structure, and delivery processes. We create assessments of source and target clouds and design, plan and implement complex architectures, and processes."},
+            {"icon":"fa fa-download","title":"Cloud Migration","text":"We analyze existing applications as well as structure, and delivery processes. We create assessments of source and target clouds and design, plan and implement complex architectures, and processes."},
+            {"icon":"fa fa-download","title":"Cloud Migration","text":"We analyze existing applications as well as structure, and delivery processes. We create assessments of source and target clouds and design, plan and implement complex architectures, and processes."},
+            {"icon":"fa fa-download","title":"Cloud Migration","text":"We analyze existing applications as well as structure, and delivery processes. We create assessments of source and target clouds and design, plan and implement complex architectures, and processes."}
+        ],"techitems":[
+            {"icon":"fa fa-download","color":"#1ED760"},
+            {"icon":"fa fa-download","color":"#FF7A59"},
+            {"icon":"fa fa-download","color":"#521753"},
+            {"icon":"fa fa-download","color":"#1ED760"},
+            {"icon":"fa fa-download","color":"#FF7A59"},
+            {"icon":"fa fa-download","color":"#FF7A59"},
+            
+            {"icon":"fa fa-download","color":"#1E3CD7"},
+            {"icon":"fa fa-download","color":"#59C3FF"},
+            {"icon":"fa fa-download","color":"#D74BEE"},
+            
+            {"icon":"fa fa-download","color":"#1ED760"}
+            
+        ]
+        },
+    "about":{     "devtitle" : "DevOps as a Service for modern businesses",
+        "devtext" : "We help our clients build businesses by designing, building and implementing production-grade, secure and scalable infrastructure that delight developers and satisfy your current and future business needs."
+   },
+    "contact":{     "devtitle" : "DevOps as a Service for modern businesses",
+        "devtext" : "We help our clients build businesses by designing, building and implementing production-grade, secure and scalable infrastructure that delight developers and satisfy your current and future business needs."
+   },
+    "landingzone":{    
+         "devtitle" : "DevOps as a Service for modern businesses",
+        "devtext" : "We help our clients build businesses by designing, building and implementing production-grade, secure and scalable infrastructure that delight developers and satisfy your current and future business needs."
+   },
+    "terraform":{     "devtitle" : "DevOps as a Service for modern businesses",
+        "devtext" : "We help our clients build businesses by designing, building and implementing production-grade, secure and scalable infrastructure that delight developers and satisfy your current and future business needs."
+   }
+
+}

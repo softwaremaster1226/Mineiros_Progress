@@ -2,7 +2,6 @@ import React from "react";
 import "./styles.scss";
 import logo from "../../assets/logo.svg";
 import call from "../../assets/call.svg";
-import styles from "./style.module.scss";
 const NavbarComponent = () => {
   return (
     <div class="topnav paddingtop34left205">
@@ -26,7 +25,7 @@ const NavbarComponent = () => {
         </div>
         <a href="#news">COMPANY</a>
         <a href="#contact">BLOG</a>
-        <a href="#about" className={styles.phone}>
+        <a href="#about" className="phone">
           <img src={call} alt="none" />
           Contact
         </a>
