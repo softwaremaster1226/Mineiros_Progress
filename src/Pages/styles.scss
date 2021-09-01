@@ -1,0 +1,67 @@
+
+.inputstyle{
+    background-color:transparent !important;
+    border:1px solid white !important;
+    color:white !important;
+    border-radius:10px !important;
+    width:255px !important;
+    height:40px !important;
+    line-height:31px !important;
+    padding:12px !important;
+    padding-left:30px;
+}
+.contactphone{
+    width:126px;
+    height:126px;
+    padding: 33px;
+    background-color: #F22751;
+    border-radius:10px !important;
+; 
+}
+.smtext{
+    color:#5A5766;
+    font-size:16px;
+    font-family:ubuntu,
+    sans-serif;
+}
+.verticalcenter{
+     margin: 0;
+     position: absolute;
+     top: 50%;
+     -ms-transform: translateY(-50%);
+     transform: translateY(-50%);
+     padding-left:50px;
+}
+.transinput{
+    font-size:40px;
+    line-height: 45px;
+    color:#5A5766;
+    outline: 0;
+    border-width: 0 0 2px;
+    padding:15px;
+
+    border-color: #E3E3E3;
+}
+.transinput::placeholder{
+    color:#E3E3E3;
+
+}
+
+.redsubmit{
+    background-color: #F22751;
+    width:93px;
+    height:45px;
+    color:white;
+    font-size:20px;
+}
+.missionsection{
+    background-color: #F22751;
+    color:white !important;
+    text-align: center;
+}
+
+.m-text{
+    font-size:18px;
+    width:600px;
+    margin:auto;
+}

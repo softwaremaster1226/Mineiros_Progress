@@ -14,28 +14,28 @@ const ArtTechSection = () => {
     <div className="artdiv">
       <div className="arttitle">{DATA.home.arttitle}</div>
       <div className="arttext">{DATA.home.arttext}</div>
-      <Row className="justify-content-center">
+      <div className="d-flex justify-content-center">
         {logos.length > 0 &&
           logos.map((item) => {
             console.log(`${item}`);
             return (
-              <Col className="d-flex justify-content-center">
+              <div className="d-flex justify-content-center">
                 <ImgCard src={item} alt="nones" />
-              </Col>
+              </div>
             );
           })}
-      </Row>
-      <Row>
+      </div>
+      <div className="d-flex justify-content-center">
         {logo2.length > 0 &&
           logo2.map((item) => {
             console.log(`${item}`);
             return (
-              <Col className="d-flex justify-content-center">
+              <div className="d-flex justify-content-center">
                 <ImgCard src={item} alt="nones" />
-              </Col>
+              </div>
             );
           })}
-      </Row>
+      </div>
     </div>
   );
 };

@@ -5,12 +5,12 @@ import TechItem from "../items/TechItem";
 const TechnicalSection = () => {
   return (
     <div className="row paddingtop34left205">
-      <div className="col-sm-5">
+      <div className="col-sm-6">
         <div className="producttext techbox">
           Technologies we <RedText>love!</RedText>
         </div>
       </div>
-      <div className="col-sm-7 mr-2">
+      <div className="col-sm-6 mr-1">
         {DATA.home.techitems.map((item, id) => {
           return <TechItem key={id} item={item} />;
         })}

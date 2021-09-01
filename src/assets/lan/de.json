@@ -201,10 +201,10 @@
         ]
     },
     "about": {
-        "title": "We are glad to <span style='color: #F22751' >help!</span>",
-        "text": "We help our clients build businesses by designing, building and implementing production-grade, secure and scalable infrastructure that delight developers and satisfy your current and future  needs.",
-        "smtitle": "Are you interested in working with us?",
-        "smtext": "Please fill the form to know about you better and to make an appoitment tailored for you",
+        "title": "deWe are glad to <span style='color: #F22751' >help!</span>",
+        "text": "deWe help our clients build businesses by designing, building and implementing production-grade, secure and scalable infrastructure that delight developers and satisfy your current and future  needs.",
+        "smtitle": "deAre you interested in working with us?",
+        "smtext": "dePlease fill the form to know about you better and to make an appoitment tailored for you",
         "itemsred": [
             {
                 "icon": "telmessage.svg",
@@ -227,8 +227,8 @@
                 "backcolor": "#EC264F"
             }
         ],
-        "tellname": "Tell us your name",
-        "holder": "Type your answer here...",
+        "tellname": "deTell us your name",
+        "holder": "deType your answer here...",
         "submitbut": "submit"
     },
     "contact": {

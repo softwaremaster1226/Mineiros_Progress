@@ -1,0 +1,24 @@
+{
+  "home": "Home",
+  "page2": "Page 2",
+  "this-is-page2": "This is <strong>page 2</strong>",
+  "go-to-home": "Go to <0>the home page</0>",
+  "welcome": "Welcome, {{username}}",
+  "change-username": "Change your username:",
+  "submit": "Submit",
+  "go-to-page2": "Click <0>here</0> to go to page 2, {{username}}",
+  "whatwedo": "WHAT WE DO",
+  "solutions": "SOLUTIONS",
+  "company": "COMPANY",
+  "blog": "BLOG",
+  "contact": "Contact",
+  "contactpage": {
+    "title": "Who are <span style='color: #F22751' >MINEIROS?</span>",
+    "text": "We are a remote-first company headquartered in Berlin, Germany that solves development, automation and security challenges in cloud infrastructure. We are working on open-source products that support development teams to create better software.",
+    "m-stitle": "What are we doing?",
+    "m-title": "Our Mission",
+    "m-text": "Save weeks of engineering time by choosing from pre-configured end-to-end architectures such as Kubernetes, ECS, Compute and Serverless."
+  },
+  "partners": "PARTNERS",
+  "meettime": "Meet the Team"
+}

@@ -1,34 +1,38 @@
 import React from "react";
 import "./styles.scss";
+import { Trans, withTranslation, useTranslation } from "react-i18next";
+
 import logo from "../../assets/logo.svg";
 import call from "../../assets/call.svg";
+import { Link } from "react-router-dom";
 const NavbarComponent = () => {
+  const { t, i18n } = useTranslation();
   return (
-    <div class="topnav paddingtop34left205">
+    <div class="topnav paddingtop34left205 position-relative">
       <div>
         <img src={logo} alt="none" />
       </div>
-      <div id="myTopnav">
-        <a href="#home" class="active">
-          WHATWE DO
-        </a>
+      <div className="float-right">
+        <Link to="/home" class="active">
+          {t("whatwedo")}
+        </Link>
         <div class="dropdown">
-          <button class="dropbtn">
-            SOLUTIONS
+          <Link to="/about" class="dropbtn">
+            {t("solutions")}
             <i class="fa fa-caret-down"></i>
-          </button>
+          </Link>
           <div class="dropdown-content">
-            <a href="#">Link 1</a>
-            <a href="#">Link 2</a>
-            <a href="#">Link 3</a>
+            <Link to="#">Link 1</Link>
+            <Link to="#">Link 2</Link>
+            <Link to="#">Link 3</Link>
           </div>
         </div>
-        <a href="#news">COMPANY</a>
-        <a href="#contact">BLOG</a>
-        <a href="#about" className="phone">
+        <Link to="/contact">{t("company")}</Link>
+        <Link to="/landingzone">{t("blog")}</Link>
+        <Link to="/terraform" className="phone">
           <img src={call} alt="none" />
-          Contact
-        </a>
+          {t("contact")}{" "}
+        </Link>
       </div>
     </div>
   );

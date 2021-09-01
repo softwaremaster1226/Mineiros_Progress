@@ -6,6 +6,7 @@ import TechnicalSection from "../Components/Home/TechnicalSection";
 import CloudSection from "../Components/Home/CloudSection";
 import DialogSection from "../Components/Home/DialogSection";
 import CodeSection from "../Components/Home/CodeSection";
+import Footer from "./Footer";
 const HomePage = () => {
   return (
     <>
@@ -17,6 +18,7 @@ const HomePage = () => {
       <CloudSection />
       <DialogSection />
       <CodeSection />
+      <Footer />
     </>
   );
 };

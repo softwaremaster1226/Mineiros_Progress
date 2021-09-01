@@ -1,5 +1,5 @@
 .devtitle{
-    width:523px;
+//    width:523px;
     // height: 459px;
     color:#5A5766;
    
@@ -7,11 +7,11 @@
 }
 
 .devtext{
-    width:427px;
-    height:251px;
-    font-family:Ubuntu;
-        font-family:ubuntu,
-        sans-serif;
+    // width:427px;
+    // height:251px;
+    font-family:ubuntu,
+    sans-serif;
+    font-size:60px;
         font-weight: bold;
     line-height:62px;
     color:#48435C;
@@ -21,25 +21,31 @@
 }
 .ramda {
     position:relative;
-    left:655px;
-    top:30px;
+   
+    float:right;
+    
 }
 .cup{
-    top:-80px;
+    position:relative;
+    float:left;
+    z-index:-1;
+    margin-left:-205px;
 }
 .img53{
     position:relative;
-    top:-30px;
-    left:355px;
+   
+    float:right;
 }
 .img5{
+    position:relative;
     float:right;
-    top:-470px;
+    //top:-50%;
 }
 .homesign{
-    // float:right;
-    left:780px;
-    top:-770px;
+    position:relative;
+    right:0;
+    top:-50%;
+    float:right;
 }
 
 .arttitle{
@@ -49,7 +55,7 @@
 }
 .artdiv{
     position:relative;
-    top:-400px;
+    
     padding:0px  205px;
 }
 .arttext{
