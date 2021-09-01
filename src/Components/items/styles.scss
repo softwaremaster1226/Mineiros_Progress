@@ -7,3 +7,43 @@
     border-radius: 15px;
     font-size:20px;
 }
+.clouditemiconsize{
+        padding:20px 30px;
+        margin:20px;
+        margin-top:30px !important;
+        background-color:#F22751;
+        color:white;
+        border-radius: 15px;
+        font-size:57px !important;
+}
+
+.dialogitembackground{
+    background-color: #F22751;
+    border-radius:15px;
+    color:white;
+    position:relative;
+    width:470px;
+    margin:auto;
+    text-align: left;
+    padding:40px;
+}
+.dialogitembackground::after {
+    content: "";
+    position: absolute;
+    top: 99%;
+    left: 32%;
+    margin-left: -20px;
+    border-width: 20px;
+    border-style: solid;
+    border-color: #F22751 transparent transparent transparent;
+}
+.peopletext{
+    font-size:16px;
+    color:white;
+    text-align: left;
+}
+.redtext{
+    color:red;
+    font-size:30px;
+    
+}

@@ -10,7 +10,9 @@
     width:427px;
     height:251px;
     font-family:Ubuntu;
-    font-size:60px;
+        font-family:ubuntu,
+        sans-serif;
+        font-weight: bold;
     line-height:62px;
     color:#48435C;
 }
@@ -47,24 +49,69 @@
 }
 .artdiv{
     position:relative;
-    top:-100px;
+    top:-400px;
     padding:0px  205px;
 }
 .arttext{
+     font-family:ubuntu,   sans-serif;
+     font-weight: bold;
     font-size:60px;
-text-align: center;
+     text-align: center;
     color:#48435C;
 }
 
 .producttitle {
     color:#F22751;
     font-size: 18px;
+    font-family:ubuntu,sans-serif;
+    font-weight: bold;
 }
 
 .producttext{
     font-weight: 500;
     font-size: 60px;
-    font-family: Ubuntu;
+        font-family:ubuntu,sans-serif;
+    font-weight: bold;
     line-height:62px;
     
+}
+.techbox{
+    width:378px;
+}
+
+.cloudsectionbody{
+    align-items: center;
+    
+}
+.cloudtext{
+    font-size:16px;
+    width:620px;
+
+}
+.ptext{
+    color:#5A5766;
+}
+
+.dialogtext {
+    font-weight: 700;
+    font-size: 40px;
+    font-family: ubuntu, sans-serif;
+    font-weight: bold;
+    line-height: 45px;
+    color: white;
+    width:882px;
+    margin:auto;
+
+}
+.dialogtitle {
+    font-weight: 500;
+    font-size: 18px;
+    
+    font-family: ubuntu, sans-serif;
+    font-weight: bold;
+    line-height: 20px;
+    color:white;
+}
+.backgroundcolor {
+    background-color:#48435C;
 }

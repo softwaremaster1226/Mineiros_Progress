@@ -1,45 +1,159 @@
 {
     "home": {
-        "devtitle" : "DevOps as a Service for modern businesses",
-        "devtext" : "We help our clients build businesses by designing, building and implementing production-grade, secure and scalable infrastructure that delight developers and satisfy your current and future business needs.",
-        "arttitle" : "Professional Services for State Of",
-        "arttext" :"The Art Technologies",
-        "producttitle":"WHAT WE DO",
-        "productitems":[
-            {"icon":"fa fa-download","title":"Cloud Migration","text":"We analyze existing applications as well as structure, and delivery processes. We create assessments of source and target clouds and design, plan and implement complex architectures, and processes."},
-            {"icon":"fa fa-download","title":"Cloud Migration","text":"We analyze existing applications as well as structure, and delivery processes. We create assessments of source and target clouds and design, plan and implement complex architectures, and processes."},
-            {"icon":"fa fa-download","title":"Cloud Migration","text":"We analyze existing applications as well as structure, and delivery processes. We create assessments of source and target clouds and design, plan and implement complex architectures, and processes."},
-            {"icon":"fa fa-download","title":"Cloud Migration","text":"We analyze existing applications as well as structure, and delivery processes. We create assessments of source and target clouds and design, plan and implement complex architectures, and processes."},
-            {"icon":"fa fa-download","title":"Cloud Migration","text":"We analyze existing applications as well as structure, and delivery processes. We create assessments of source and target clouds and design, plan and implement complex architectures, and processes."},
-            {"icon":"fa fa-download","title":"Cloud Migration","text":"We analyze existing applications as well as structure, and delivery processes. We create assessments of source and target clouds and design, plan and implement complex architectures, and processes."}
-        ],"techitems":[
-            {"icon":"fa fa-download","color":"#1ED760"},
-            {"icon":"fa fa-download","color":"#FF7A59"},
-            {"icon":"fa fa-download","color":"#521753"},
-            {"icon":"fa fa-download","color":"#1ED760"},
-            {"icon":"fa fa-download","color":"#FF7A59"},
-            {"icon":"fa fa-download","color":"#FF7A59"},
-            
-            {"icon":"fa fa-download","color":"#1E3CD7"},
-            {"icon":"fa fa-download","color":"#59C3FF"},
-            {"icon":"fa fa-download","color":"#D74BEE"},
-            
-            {"icon":"fa fa-download","color":"#1ED760"}
-            
+        "devtitle": "DevOps as a Service for modern businesses",
+        "devtext": "We help our clients build businesses by designing, building and implementing production-grade, secure and scalable infrastructure that delight developers and satisfy your current and future business needs.",
+        "arttitle": "Professional Services for State Of",
+        "arttext": "The Art Technologies",
+        "producttitle": "WHAT WE DO",
+        "productitems": [
+            {
+                "icon": "fa fa-download",
+                "title": "Cloud Migration",
+                "text": "We analyze existing applications as well as structure, and delivery processes. We create assessments of source and target clouds and design, plan and implement complex architectures, and processes."
+            },
+            {
+                "icon": "fa fa-download",
+                "title": "Cloud Migration",
+                "text": "We analyze existing applications as well as structure, and delivery processes. We create assessments of source and target clouds and design, plan and implement complex architectures, and processes."
+            },
+            {
+                "icon": "fa fa-download",
+                "title": "Cloud Migration",
+                "text": "We analyze existing applications as well as structure, and delivery processes. We create assessments of source and target clouds and design, plan and implement complex architectures, and processes."
+            },
+            {
+                "icon": "fa fa-download",
+                "title": "Cloud Migration",
+                "text": "We analyze existing applications as well as structure, and delivery processes. We create assessments of source and target clouds and design, plan and implement complex architectures, and processes."
+            },
+            {
+                "icon": "fa fa-download",
+                "title": "Cloud Migration",
+                "text": "We analyze existing applications as well as structure, and delivery processes. We create assessments of source and target clouds and design, plan and implement complex architectures, and processes."
+            },
+            {
+                "icon": "fa fa-download",
+                "title": "Cloud Migration",
+                "text": "We analyze existing applications as well as structure, and delivery processes. We create assessments of source and target clouds and design, plan and implement complex architectures, and processes."
+            }
+        ],
+        "techitems": [
+            {
+                "icon": "fa fa-download",
+                "color": "#1ED760"
+            },
+            {
+                "icon": "fa fa-download",
+                "color": "#FF7A59"
+            },
+            {
+                "icon": "fa fa-download",
+                "color": "#521753"
+            },
+            {
+                "icon": "fa fa-download",
+                "color": "#1ED760"
+            },
+            {
+                "icon": "fa fa-download",
+                "color": "#FF7A59"
+            },
+            {
+                "icon": "fa fa-download",
+                "color": "#FF7A59"
+            },
+            {
+                "icon": "fa fa-download",
+                "color": "#1E3CD7"
+            },
+            {
+                "icon": "fa fa-download",
+                "color": "#59C3FF"
+            },
+            {
+                "icon": "fa fa-download",
+                "color": "#D74BEE"
+            },
+            {
+                "icon": "fa fa-download",
+                "color": "#1ED760"
+            }
+        ],
+        "clouditems": [
+            {
+                "icon": "fa fa-download",
+                "title": "Pre-configured Terraform Modules",
+                "text": "Instead of start implementing from scratch, use our pre-configured Terraform modules to implement services such as VPCs, Databases, Secrets Management, and many more."
+            },
+            {
+                "icon": "fa fa-download",
+                "title": "Pre-configured Terraform Modules",
+                "text": "Instead of start implementing from scratch, use our pre-configured Terraform modules to implement services such as VPCs, Databases, Secrets Management, and many more."
+            },
+            {
+                "icon": "fa fa-download",
+                "title": "Pre-configured Terraform Modules",
+                "text": "Instead of start implementing from scratch, use our pre-configured Terraform modules to implement services such as VPCs, Databases, Secrets Management, and many more."
+            },
+            {
+                "icon": "fa fa-download",
+                "title": "Pre-configured Terraform Modules",
+                "text": "Instead of start implementing from scratch, use our pre-configured Terraform modules to implement services such as VPCs, Databases, Secrets Management, and many more."
+            }
+        ],
+        "dialogitems": [
+            {
+                "title": "amatus",
+                "text": "We had an incredible experience working with Landify and were impressed they made such a big difference in only three weeks. Our team is so grateful for the wonderful improvements they made and their ability to get familiar with the concept so quickly. It acted as a catalyst to take our design to the next level and get more eyes on our product.",
+                "name": "James Cooper",
+                "job": "CEO,ABC Corporation",
+                "icon": "amatus-img.svg"
+            },
+            {
+                "title": "amatus",
+                "text": "We had an incredible experience working with Landify and were impressed they made such a big difference in only three weeks. Our team is so grateful for the wonderful improvements they made and their ability to get familiar with the concept so quickly. It acted as a catalyst to take our design to the next level and get more eyes on our product.",
+                "name": "James Cooper",
+                "job": "CEO,ABC Corporation",
+                "icon": "amatus-img.svg"
+            }
+        ],
+        "codeitems": [
+            {
+                "title": "You need to go to production on AWS",
+                "text": "You're launching a new product, or you need to migrate your existing infrastructure to the cloud. You are required to implement networking, databases, continuous integration & deployment, monitoring & logging, queues, data pipelines, and orchestration, but you don't have the time or expertise to implement it all from scratch.",
+                "toggle": true
+            },
+            {
+                "title": "Get access to our end-to-end architectures",
+                "text": "You're launching a new product, or you need to migrate your existing infrastructure to the cloud. You are required to implement networking, databases, continuous integration & deployment, monitoring & logging, queues, data pipelines, and orchestration, but you don't have the time or expertise to implement it all from scratch.",
+                "toggle": false
+            },
+            {
+                "title": "Start building on top of our open-source modules",
+                "text": "You're launching a new product, or you need to migrate your existing infrastructure to the cloud. You are required to implement networking, databases, continuous integration & deployment, monitoring & logging, queues, data pipelines, and orchestration, but you don't have the time or expertise to implement it all from scratch.",
+                "toggle": false
+            },
+            {
+                "title": "Best Practices & Compliance",
+                "text": "You're launching a new product, or you need to migrate your existing infrastructure to the cloud. You are required to implement networking, databases, continuous integration & deployment, monitoring & logging, queues, data pipelines, and orchestration, but you don't have the time or expertise to implement it all from scratch.",
+                "toggle": false
+            }
         ]
-        },
-    "about":{     "devtitle" : "DevOps as a Service for modern businesses",
-        "devtext" : "We help our clients build businesses by designing, building and implementing production-grade, secure and scalable infrastructure that delight developers and satisfy your current and future business needs."
-   },
-    "contact":{     "devtitle" : "DevOps as a Service for modern businesses",
-        "devtext" : "We help our clients build businesses by designing, building and implementing production-grade, secure and scalable infrastructure that delight developers and satisfy your current and future business needs."
-   },
-    "landingzone":{    
-         "devtitle" : "DevOps as a Service for modern businesses",
-        "devtext" : "We help our clients build businesses by designing, building and implementing production-grade, secure and scalable infrastructure that delight developers and satisfy your current and future business needs."
-   },
-    "terraform":{     "devtitle" : "DevOps as a Service for modern businesses",
-        "devtext" : "We help our clients build businesses by designing, building and implementing production-grade, secure and scalable infrastructure that delight developers and satisfy your current and future business needs."
-   }
-
+    },
+    "about": {
+        "devtitle": "DevOps as a Service for modern businesses",
+        "devtext": "We help our clients build businesses by designing, building and implementing production-grade, secure and scalable infrastructure that delight developers and satisfy your current and future  needs."
+    },
+    "contact": {
+        "devtitle": "DevOps as a Service for modern businesses",
+        "devtext": "We help our clients build businesses by designing, building and implementing production-grade, secure and scalable infrastructure that delight developers and satisfy your current and future business needs."
+    },
+    "landingzone": {
+        "devtitle": "DevOps as a Service for modern businesses",
+        "devtext": "We help our clients build businesses by designing, building and implementing production-grade, secure and scalable infrastructure that delight developers and satisfy your current and future business needs."
+    },
+    "terraform": {
+        "devtitle": "DevOps as a Service for modern businesses",
+        "devtext": "We help our clients build businesses by designing, building and implementing production-grade, secure and scalable infrastructure that delight developers and satisfy your current and future business needs."
+    }
 }

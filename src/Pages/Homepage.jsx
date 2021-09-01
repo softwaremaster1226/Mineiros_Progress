@@ -3,7 +3,9 @@ import HomeHeader from "../Components/Home/HomeHeader";
 import ArtTechSection from "../Components/Home/ArtTechSection";
 import ProductSection from "../Components/Home/ProductSection";
 import TechnicalSection from "../Components/Home/TechnicalSection";
-
+import CloudSection from "../Components/Home/CloudSection";
+import DialogSection from "../Components/Home/DialogSection";
+import CodeSection from "../Components/Home/CodeSection";
 const HomePage = () => {
   return (
     <>
@@ -12,6 +14,9 @@ const HomePage = () => {
       <ArtTechSection />
       <ProductSection />
       <TechnicalSection />
+      <CloudSection />
+      <DialogSection />
+      <CodeSection />
     </>
   );
 };
