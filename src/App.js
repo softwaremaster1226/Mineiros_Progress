@@ -16,8 +16,9 @@ function App() {
           <Route exact path="/home" component={HomePage} />
           <Route exact path="/about" component={AboutPage} />
           <Route exact path="/contact" component={ContactPage} />
-          <Route exact path="/blog " component={LandingZonePage} />
-          <Route exact path="/contact" component={TerraformPage} />
+          <Route exact path="/terraform" component={TerraformPage} />
+
+          <Route exact path="/landingzone" component={LandingZonePage} />
           <Redirect from="/" to="/home" exact />
           <Route component={NotFound} />
         </Switch>

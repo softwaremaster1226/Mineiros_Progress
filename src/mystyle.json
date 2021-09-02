@@ -233,7 +233,33 @@
     },
     "contact": {
         "devtitle": "DevOps as a Service for modern businesses",
-        "devtext": "We help our clients build businesses by designing, building and implementing production-grade, secure and scalable infrastructure that delight developers and satisfy your current and future business needs."
+        "devtext": "We help our clients build businesses by designing, building and implementing production-grade, secure and scalable infrastructure that delight developers and satisfy your current and future business needs.",
+        "dialogitems": [
+            {
+                "photo": "person1.svg",
+                "name": "Sören Martius",
+                "job": "Co-Founder, CEO",
+                "description": "Soren is a technologist who loves building and delivering digital products and managing and scaling engineering teams for various kinds of businesses. He has 15+ years of industry experience and has been working in various CTO positions for successful startups prior to founding Mineiros.",
+                "icon1": "telcamera.svg",
+                "icon2": "teltwitter.svg"
+            },
+            {
+                "photo": "person2.svg",
+                "name": "Sören Martius",
+                "job": "Co-Founder, CEO",
+                "description": "Soren is a technologist who loves building and delivering digital products and managing and scaling engineering teams for various kinds of businesses. He has 15+ years of industry experience and has been working in various CTO positions for successful startups prior to founding Mineiros.",
+                "icon1": "telcamera.svg",
+                "icon2": "teltwitter.svg"
+            },
+            {
+                "photo": "person1.svg",
+                "name": "Sören Martius",
+                "job": "Co-Founder, CEO",
+                "description": "Soren is a technologist who loves building and delivering digital products and managing and scaling engineering teams for various kinds of businesses. He has 15+ years of industry experience and has been working in various CTO positions for successful startups prior to founding Mineiros.",
+                "icon1": "telcamera.svg",
+                "icon2": "teltwitter.svg"
+            }
+        ]
     },
     "landingzone": {
         "devtitle": "DevOps as a Service for modern businesses",

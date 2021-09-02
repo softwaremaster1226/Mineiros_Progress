@@ -1,5 +1,18 @@
 import React from "react";
-const TerraformPage = () => {
-  return <div>terraform</div>;
+import { TransButton } from "../Components/Home/common.styles";
+import about from "../assets/about-1.svg";
+import aboutvector from "../assets/about-vector.svg";
+import { Trans, withTranslation, useTranslation } from "react-i18next";
+import TeamMember from "../Components/items/TeamMember";
+import Template from "./Template";
+import DATA from "../mystyle.json";
+
+const TerraformLibrary = () => {
+  const { t, i18n } = useTranslation();
+  return (
+    <div>
+      <Template></Template>
+    </div>
+  );
 };
-export default TerraformPage;
+export default TerraformLibrary;

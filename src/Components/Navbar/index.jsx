@@ -28,8 +28,8 @@ const NavbarComponent = () => {
           </div>
         </div>
         <Link to="/contact">{t("company")}</Link>
-        <Link to="/landingzone">{t("blog")}</Link>
-        <Link to="/terraform" className="phone">
+        <Link to="/terraform">{t("blog")}</Link>
+        <Link to="/landingzone" className="phone">
           <img src={call} alt="none" />
           {t("contact")}{" "}
         </Link>
